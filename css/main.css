@@ -113,3 +113,23 @@ button {
   font-weight: bold;
   font-size: 18px;
 }
+#change {
+    background: #4dd452;
+    border: 0;
+    color: #ffffff;
+}
+.reset {
+    background: #af9548;
+    border: 0;
+    color: #ffffff;
+}
+#showNum ｛
+    background: #af48a6;
+    border: 0;
+    color: #ffffff;
+｝
+#showAnswer ｛
+    background: #af5248;
+    border: 0;
+    color: #ffffff;
+｝
