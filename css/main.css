@@ -133,3 +133,8 @@ button {
     border: 0;
     color: #ffffff;
 ｝
+.step {
+    font-size: 18px;
+    font-weight: bold;
+    color: blue;
+}
